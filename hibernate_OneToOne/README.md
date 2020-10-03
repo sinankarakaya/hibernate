@@ -1,0 +1,2 @@
+# hibernate_namequeries
+ 
